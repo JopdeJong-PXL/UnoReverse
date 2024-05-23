@@ -1,0 +1,24 @@
+IP-adres: ::1
+Ontvangen gegevens: hhh
+
+Geolocatiegegevens voor IP: ::1
+{"status":"fail","message":"reserved range","query":"::1"}
+
+Totaal aantal verzonden gegevens: 23000
+
+IP-adres: ::1
+Ontvangen gegevens: hhh
+
+Geolocatiegegevens voor IP: ::1
+{"status":"fail","message":"reserved range","query":"::1"}
+
+Totaal aantal verzonden gegevens: 23000
+
+IP-adres: ::1
+Ontvangen gegevens: hhh
+
+Geolocatiegegevens voor IP: ::1
+{"status":"fail","message":"reserved range","query":"::1"}
+
+Totaal aantal afgeleverde gegevens: 23000
+
